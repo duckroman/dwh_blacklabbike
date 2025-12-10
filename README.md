@@ -1,3 +1,8 @@
+# 📈 Proyecto de DataWarehouse y Analítica
+Repositorio del Proyecto de Data Warehouse y Analítica!
+
+Este proyecto demuestra una solución integral de almacenamiento de datos y analítica, desde la construcción de un data warehouse hasta la generación de insights accionables. Diseñado como un proyecto de portafolio, destaca las mejores prácticas de la industria en ingeniería de datos y analítica.
+
 # 🚀 Requisitos del Proyecto
 
 ## Construcción del Data Warehouse (Ingeniería de Datos)
